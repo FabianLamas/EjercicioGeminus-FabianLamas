@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeminusEx-One", "Test-Geminus\GeminusEx-One.csproj", "{6EFE2DD8-529A-411D-A3FC-E106DFEF1D4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeminusEx-Two", "GeminusEx-Two\GeminusEx-Two.csproj", "{A8B73E19-98F4-44CC-BE66-E435898B635A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EFE2DD8-529A-411D-A3FC-E106DFEF1D4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EFE2DD8-529A-411D-A3FC-E106DFEF1D4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EFE2DD8-529A-411D-A3FC-E106DFEF1D4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EFE2DD8-529A-411D-A3FC-E106DFEF1D4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8B73E19-98F4-44CC-BE66-E435898B635A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8B73E19-98F4-44CC-BE66-E435898B635A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8B73E19-98F4-44CC-BE66-E435898B635A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8B73E19-98F4-44CC-BE66-E435898B635A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A70F4C75-11F5-4E2E-AE84-655B6E9BFF05}
+	EndGlobalSection
+EndGlobal

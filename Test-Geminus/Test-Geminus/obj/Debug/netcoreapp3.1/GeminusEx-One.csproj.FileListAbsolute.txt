@@ -1,0 +1,14 @@
+C:\Users\Silve\source\repos\Test-Geminus\Test-Geminus\bin\Debug\netcoreapp3.1\GeminusEx-One.exe
+C:\Users\Silve\source\repos\Test-Geminus\Test-Geminus\bin\Debug\netcoreapp3.1\GeminusEx-One.deps.json
+C:\Users\Silve\source\repos\Test-Geminus\Test-Geminus\bin\Debug\netcoreapp3.1\GeminusEx-One.runtimeconfig.json
+C:\Users\Silve\source\repos\Test-Geminus\Test-Geminus\bin\Debug\netcoreapp3.1\GeminusEx-One.runtimeconfig.dev.json
+C:\Users\Silve\source\repos\Test-Geminus\Test-Geminus\bin\Debug\netcoreapp3.1\GeminusEx-One.dll
+C:\Users\Silve\source\repos\Test-Geminus\Test-Geminus\bin\Debug\netcoreapp3.1\GeminusEx-One.pdb
+C:\Users\Silve\source\repos\Test-Geminus\Test-Geminus\obj\Debug\netcoreapp3.1\GeminusEx-One.csproj.AssemblyReference.cache
+C:\Users\Silve\source\repos\Test-Geminus\Test-Geminus\obj\Debug\netcoreapp3.1\GeminusEx-One.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Silve\source\repos\Test-Geminus\Test-Geminus\obj\Debug\netcoreapp3.1\GeminusEx-One.AssemblyInfoInputs.cache
+C:\Users\Silve\source\repos\Test-Geminus\Test-Geminus\obj\Debug\netcoreapp3.1\GeminusEx-One.AssemblyInfo.cs
+C:\Users\Silve\source\repos\Test-Geminus\Test-Geminus\obj\Debug\netcoreapp3.1\GeminusEx-One.csproj.CoreCompileInputs.cache
+C:\Users\Silve\source\repos\Test-Geminus\Test-Geminus\obj\Debug\netcoreapp3.1\GeminusEx-One.dll
+C:\Users\Silve\source\repos\Test-Geminus\Test-Geminus\obj\Debug\netcoreapp3.1\GeminusEx-One.pdb
+C:\Users\Silve\source\repos\Test-Geminus\Test-Geminus\obj\Debug\netcoreapp3.1\GeminusEx-One.genruntimeconfig.cache
